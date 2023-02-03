@@ -1,0 +1,7 @@
+robotframework==5.0.1
+robotframework-lint==1.1
+robotframework-metrics==3.3.3
+robotframework-requests==0.9.3
+robotframework-selenium2library==3.0.0
+robotframework-seleniumlibrary==5.1.3
+selenium==3.141.0
